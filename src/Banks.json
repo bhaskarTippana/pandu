@@ -1,0 +1,61 @@
+[
+    {
+        "name":"HDFC",
+        "image":"/src/assets/Hdfc.png",
+        "plan":"Plan Guard Silver",
+        "amount":"4,002",
+        "final":"4,40,369",
+        "Special":"2,403",
+        "self":"1,202",
+        "benefits":"601",
+        "tax":"100"
+    },
+
+    {
+        "name":"SBI",
+        "image":"/src/assets/sbi.png",
+        "plan":"Plan Guard Gold",
+        "amount":3889,
+        "final":"4,40,369",
+        "Special":"2,807",
+        "self":"1,444",
+        "benefits":"881",
+        "tax":"100"
+    },
+
+    {
+        "name":"DIGIT",
+        "image":"/src/assets/digit.jpg",
+        "plan":"Gold Gaurd Plan",
+        "amount":5585,
+        "final":"4,40,369",
+        "Special":"1,884",
+        "self":"998",
+        "benefits":"456",
+        "tax":"100"
+    },
+
+    {
+        "name":"INDIAN-BANK",
+        "image":"/src/assets/indianbank.png",
+        "plan":"Plan Silver Gaurd",
+        "amount":3111,
+        "final":"4,40,369",
+        "Special":"3,403",
+        "self":"1,555",
+        "benefits":"1211",
+        "tax":"100"
+    },
+
+    {
+        "name":"YES-BANK",
+        "image":"/src/assets/yesbank.png",
+        "plan":"Plan Gold Gaurd",
+        "amount":4251,
+        "final":"4,40,369",
+        "Special":"4,403",
+        "self":"2,202",
+        "benefits":"1601",
+        "tax":"100"
+    }
+]
